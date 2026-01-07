@@ -21,3 +21,11 @@ Processos fiscais e logísticos frequentemente envolvem a leitura manual de arqu
 1. Instale as dependências:
    ```bash
    pip install -r requirements.txt
+
+2. Execute o script:
+   python conversor_xml_excel.py
+
+3. Selecione o arquivo XML na janela que abrir e escolha onde salvar o Excel gerado.
+   
+
+Desenvolvido por Washington Santos
